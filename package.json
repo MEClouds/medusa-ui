@@ -2,11 +2,11 @@
   "name": "@meclouds/admin-ui",
   "author": "Kasper Kristensen <kasper@medusajs.com>",
   "license": "MIT",
-  "version": "2.1.15",
+  "version": "2.1.16",
   "repository": {
     "type": "git",
     "url": "https://github.com/MEClouds/medusa-ui.git",
-    "directory": "packages/admin-ui"
+    "directory": "/"
   },
   "exports": {
     ".": {
