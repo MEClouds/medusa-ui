@@ -1,0 +1,17 @@
+CLI Building entry: src/index.ts
+CLI Using tsconfig: tsconfig.json
+CLI tsup v6.7.0
+CLI Using tsup config: /home/azureuser/projects/medusa/packages/admin-ui/tsup.config.ts
+CLI Target: node14
+CLI Cleaning output folder
+CJS Build start
+ESM Build start
+CJS dist/index.js     24.19 KB
+CJS dist/index.js.map 79.57 KB
+CJS ⚡️ Build success in 129ms
+ESM dist/index.mjs     22.69 KB
+ESM dist/index.mjs.map 78.14 KB
+ESM ⚡️ Build success in 139ms
+DTS Build start
+DTS ⚡️ Build success in 4529ms
+DTS dist/index.d.ts 7.87 KB

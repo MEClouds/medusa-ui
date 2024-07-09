@@ -1,0 +1,8 @@
+/dist
+/build
+.vercel
+/ui/preview
+/ui/src/extensions
+node_modules
+.turbo
+
